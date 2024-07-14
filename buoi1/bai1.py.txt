@@ -1,0 +1,21 @@
+bài 1: 
+python là ngôn ngữ thông dịch.
+vì nó giống như phiên dịch viên, nó sẽ thực hiện các bước :
+1.Phân tích cú pháp (Parsing): Trình thông dịch phân tích mã nguồn Python để kiểm tra cú pháp và tạo ra một cấu trúc cây cú pháp (syntax tree).
+2.Biên dịch sang mã bytecode: Cây cú pháp này sau đó được biên dịch thành mã bytecode, một dạng mã trung gian giữa mã nguồn và mã máy.
+3.Thực thi mã bytecode: Mã bytecode được thực thi bởi Máy ảo Python (Python Virtual Machine - PVM).
+tức là chạy đến đâu dịch và thực hiện đến đấy để giúp tìm bug dễ hơn chứ k lỗi 1 dòng k chạy toàn bài như c++
+bài 2:
+kiểu biến: 
+số: int (số nguyên), float (số thực), complex (số phức).
+chuỗi: str
+danh sách: list
+bộ; tuple
+từ điển: dict
+tập hợp: set
+toán tử: =-*/,//(chia lấy nguyên),%(chia lấy dư),**(luỹ thừa)
+so sánh: >,<,>=,<=,==,!=
+toán tử logic: and,or,not
+toán tử gán: =, +=, -=, *=, /=, %=, **=, //=
+mệnh đề if,elif,else,for,while
+true,false là kiểu boole chỉ trả về true hoặc false, k khác c++ là mấy :v
